@@ -8,7 +8,7 @@ body {
     background-color: #e0e8ff;
     font-family: 'Red Hat Display', sans-serif; }
 
-@media (min-width: 1440px) {
+@media (min-width: 640px) {
 body {
     width: 25%;
     background-image: url("../images/pattern-background-desktop.svg");
@@ -22,7 +22,7 @@ body {
     border-radius: 8%;
     margin-top: 70px; }
 
-@media (min-width: 1440px) {
+@media (min-width: 640px) {
 .container {
     display: block;
     width: 100%;
@@ -111,6 +111,6 @@ p {
     font-size: 14px;
     font-weight: 900; }
 
-@media (min-width: 1440px) {
+@media (min-width: 640px) {
 .footerP {
     padding-bottom: 35px; } }
